@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Julia Schnell",
+    "address": "Obere Bachgasse 21, 93047 Regensburg",
+    "web": "",
+    "tel": "0941 37847414",
+    "telhours": [
+      {
+        "day": "24.12.",
+        "weekday": "Di.",
+        "times": [
+          "12:00-12:50"
+        ]
+      },
+      {
+        "day": "31.12.",
+        "weekday": "Di.",
+        "times": [
+          "12:00-12:50"
+        ]
+      },
+      {
+        "day": "2.1.",
+        "weekday": "Do.",
+        "times": [
+          "12:00-12:50"
+        ]
+      },
+      {
+        "day": "7.1.",
+        "weekday": "Di.",
+        "times": [
+          "12:00-12:50"
+        ]
+      },
+      {
+        "day": "9.1.",
+        "weekday": "Do.",
+        "times": [
+          "12:00-12:50"
+        ]
+      },
+      {
+        "day": "14.1.",
+        "weekday": "Di.",
+        "times": [
+          "12:00-12:50"
+        ]
+      },
+      {
+        "day": "16.1.",
+        "weekday": "Do.",
+        "times": [
+          "12:00-12:50"
+        ]
+      }
+    ]
+  }
+]

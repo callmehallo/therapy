@@ -1,0 +1,405 @@
+[
+  {
+    "arzt": true,
+    "id": "1",
+    "web": "",
+    "kv": "71",
+    "name": "Julia Schnell",
+    "tel": "0941 37847414",
+    "fax": "",
+    "anrede": "Frau",
+    "geschlecht": "F",
+    "handy": "",
+    "email": "",
+    "distance": 146,
+    "strasse": "Obere Bachgasse",
+    "hausnummer": "21",
+    "plz": "93047",
+    "ort": "Regensburg",
+    "geoeffnet": "CLOSED",
+    "keineSprechzeiten": false,
+    "ag": [
+      {
+        "key": "12",
+        "value": "Psychotherapie"
+      }
+    ],
+    "tsz": [
+      {
+        "d": "22.12.",
+        "t": "So."
+      },
+      {
+        "d": "23.12.",
+        "t": "Mo.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              },
+              {
+                "zeit": "13:00-15:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "24.12.",
+        "t": "Di.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              }
+            ]
+          },
+          {
+            "typ": "Telefonische Erreichbarkeit",
+            "sprechzeiten": [
+              {
+                "zeit": "12:00-12:50"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "25.12.",
+        "t": "Mi."
+      },
+      {
+        "d": "26.12.",
+        "t": "Do."
+      },
+      {
+        "d": "27.12.",
+        "t": "Fr.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "28.12.",
+        "t": "Sa."
+      },
+      {
+        "d": "29.12.",
+        "t": "So."
+      },
+      {
+        "d": "30.12.",
+        "t": "Mo.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              },
+              {
+                "zeit": "13:00-15:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "31.12.",
+        "t": "Di.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              }
+            ]
+          },
+          {
+            "typ": "Telefonische Erreichbarkeit",
+            "sprechzeiten": [
+              {
+                "zeit": "12:00-12:50"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "1.1.",
+        "t": "Mi."
+      },
+      {
+        "d": "2.1.",
+        "t": "Do.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              },
+              {
+                "zeit": "13:00-15:00"
+              }
+            ]
+          },
+          {
+            "typ": "Telefonische Erreichbarkeit",
+            "sprechzeiten": [
+              {
+                "zeit": "12:00-12:50"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "3.1.",
+        "t": "Fr.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "4.1.",
+        "t": "Sa."
+      },
+      {
+        "d": "5.1.",
+        "t": "So."
+      },
+      {
+        "d": "6.1.",
+        "t": "Mo."
+      },
+      {
+        "d": "7.1.",
+        "t": "Di.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              }
+            ]
+          },
+          {
+            "typ": "Telefonische Erreichbarkeit",
+            "sprechzeiten": [
+              {
+                "zeit": "12:00-12:50"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "8.1.",
+        "t": "Mi.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              },
+              {
+                "zeit": "13:00-15:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "9.1.",
+        "t": "Do.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              },
+              {
+                "zeit": "13:00-15:00"
+              }
+            ]
+          },
+          {
+            "typ": "Telefonische Erreichbarkeit",
+            "sprechzeiten": [
+              {
+                "zeit": "12:00-12:50"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "10.1.",
+        "t": "Fr.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "11.1.",
+        "t": "Sa."
+      },
+      {
+        "d": "12.1.",
+        "t": "So."
+      },
+      {
+        "d": "13.1.",
+        "t": "Mo.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              },
+              {
+                "zeit": "13:00-15:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "14.1.",
+        "t": "Di.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              }
+            ]
+          },
+          {
+            "typ": "Telefonische Erreichbarkeit",
+            "sprechzeiten": [
+              {
+                "zeit": "12:00-12:50"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "15.1.",
+        "t": "Mi.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              },
+              {
+                "zeit": "13:00-15:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "16.1.",
+        "t": "Do.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              },
+              {
+                "zeit": "13:00-15:00"
+              }
+            ]
+          },
+          {
+            "typ": "Telefonische Erreichbarkeit",
+            "sprechzeiten": [
+              {
+                "zeit": "12:00-12:50"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "17.1.",
+        "t": "Fr.",
+        "tszDesTyps": [
+          {
+            "typ": "Sprechstunde mit Termin",
+            "sprechzeiten": [
+              {
+                "zeit": "9:00-12:00"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "d": "18.1.",
+        "t": "Sa."
+      }
+    ],
+    "fs": [],
+    "zb": [],
+    "fg": ["Psychologische Psychotherapie"],
+    "psy": ["Verhaltenstherapie für Erwachsene in Einzeltherapie"],
+    "zm": [],
+    "kvg": [
+      {
+        "values": ["DMP Mammakarzinom"],
+        "heading": "Disease-Management-Programme (DMP)"
+      },
+      {
+        "values": [
+          "Autogenes Training",
+          "Hypnose",
+          "Jacobsonsche Relaxationstherapie"
+        ],
+        "heading": "Psychosomatische Grundversorgung"
+      }
+    ],
+    "lat": 49.0168420432679,
+    "lon": 12.0947061488063,
+    "nteStart": "2024-12-24@12:00",
+    "nteEnde": "2024-12-24@12:50"
+  }
+]

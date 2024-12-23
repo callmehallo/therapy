@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "lib": ["ES2024", "dom"],
+    "target": "ES2024"
+  }
+}
